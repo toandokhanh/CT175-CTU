@@ -13,3 +13,15 @@
   - Liên thông yếu, liên thông mạnh : đa đồ thị có hướng
   - 
 - Buổi 2
+  - n là số đỉnh
+  - m là số cạnh
+  - đồ thị vô hướng
+    - ![image](https://user-images.githubusercontent.com/98395447/194019592-7377e425-82d8-4d15-91ea-b6d3c9214387.png)
+    - là ma trận đối xứng, tổng các phần tử trên ma trận bằng 2 lần số cạnh
+    - tổng các phần tử trên hàng hoặc cột thứ u là bậc của đỉnh u
+  - đồ thị có hướng
+    - ![image](https://user-images.githubusercontent.com/98395447/194021693-ed5c1675-dc69-40e6-aa62-7f472605477b.png)
+    - tổng các phần tử trên ma trận chính là số cạnh của đồ thị
+    - tổng các phần tử trên hàng thứ u là bán bậc ra của đỉnh u
+    - tồng các phần tử trên cột thứ u là bán bậc vào của đỉnh u
+                                                                                                                                                                
